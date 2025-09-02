@@ -1,8 +1,8 @@
-📘 WEBSITE-MEMA — Description du dépôt (version française)
+📘 WEBSITE-MEMA 
 
 WEBSITE-MEMA — Site full-stack pour Méditation Matinale (MEMA) : méditations quotidiennes (audio + image + texte), vidéos YouTube MEMA, témoignages, dons, annonces d’événements et planning hebdomadaire — construit avec des outils modernes, sécurisés et maintenables.
 
-📖 Introduction pour le README (à coller)
+📖 Introduction pour le README 
 WEBSITE-MEMA — Méditation Matinale
 
 WEBSITE-MEMA est une application web full-stack qui propose des méditations religieuses matinales (audio + image + texte), intègre les vidéos YouTube de MEMA et fournit des pages pour les témoignages, les dons, les annonces d’événements et le planning hebdomadaire. MEMA est née sous MEA (Mission d'Évangélisation Apostolique) — le site contient une section dédiée à MEA pour présenter l’organisation, sa mission et ses programmes.
